@@ -1,5 +1,4 @@
-# Jupyter-Notebook-Project-Using-Python-basics-functions
-Jupyter Notebook Using Python basics functions
+# Python basic function project using jupyter notebook
 
 Project Description
 
